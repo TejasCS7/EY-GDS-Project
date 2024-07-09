@@ -1,6 +1,6 @@
 Exploratory Data Analysis on Space Exploration Missions using Power BI.
 
-1) Overview
+## Overview
 
 This project showcases the application of Power BI for enhancing exploratory data analysis (EDA) in the context of space exploration missions. By leveraging Power BI's robust capabilities, we aim to streamline data integration, cleansing, visualization, and predictive modeling tailored to the unique challenges presented by space mission datasets.
 
